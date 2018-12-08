@@ -7,7 +7,7 @@ metadata:
     fabric8.io/git-branch: release-v2.2.297
     fabric8.io/git-commit: 0958d61020835b9707536cc0525344fc30a764dd
     fabric8.io/git-url: http://gogs.ux.fabric8.io/gogsadmin/oss-parent/commit/0958d61020835b9707536cc0525344fc30a764dd
-    fabric8.io/iconUrl: https://cdn.rawgit.com/fabric8io/fabric8-devops/master/elasticsearch/src/main/fabric8/icon.png
+    fabric8.io/iconUrl: https://cdn.jsdelivr.net/gh/fabric8io/fabric8-devops/elasticsearch/src/main/fabric8/icon.png
     fabric8.io/metrics-path: dashboard/file/kubernetes-pods.json/?var-project=elasticsearch&var-version=2.2.297
   labels:
     group: io.fabric8.devops.apps
@@ -30,7 +30,7 @@ spec:
         fabric8.io/git-branch: release-v2.2.297
         fabric8.io/git-commit: 0958d61020835b9707536cc0525344fc30a764dd
         fabric8.io/git-url: http://gogs.ux.fabric8.io/gogsadmin/oss-parent/commit/0958d61020835b9707536cc0525344fc30a764dd
-        fabric8.io/iconUrl: https://cdn.rawgit.com/fabric8io/fabric8-devops/master/elasticsearch/src/main/fabric8/icon.png
+        fabric8.io/iconUrl: https://cdn.jsdelivr.net/gh/fabric8io/fabric8-devops/elasticsearch/src/main/fabric8/icon.png
         fabric8.io/metrics-path: dashboard/file/kubernetes-pods.json/?var-project=elasticsearch&var-version=2.2.297
         pod.alpha.kubernetes.io/init-containers: "[\n            {\n             \
           \   \"name\": \"init\",\n                \"image\": \"busybox\",\n     \

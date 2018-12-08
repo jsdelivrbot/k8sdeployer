@@ -9,4 +9,4 @@ description: "[elasticsearch](http://elasticsearch.com/) provides distributed RE
 maintainers:
 - name: "Fabric8 Development Team"
   email: "fabric8@googlegroups.com"
-icon: "https://cdn.rawgit.com/fabric8io/fabric8-devops/master/elasticsearch/src/main/fabric8/icon.png"
+icon: "https://cdn.jsdelivr.net/gh/fabric8io/fabric8-devops/elasticsearch/src/main/fabric8/icon.png"

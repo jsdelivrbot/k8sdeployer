@@ -7,7 +7,7 @@ metadata:
     fabric8.io/metrics-path: "dashboard/file/kubernetes-pods.json/?var-project=kibana&var-version=2.2.297"
     fabric8.io/build-id: "4"
     fabric8.io/build-url: "http://jenkins.ux.fabric8.io/job/oss-parent/4"
-    fabric8.io/iconUrl: "https://cdn.rawgit.com/fabric8io/fabric8-devops/master/kibana/src/main/fabric8/icon.svg"
+    fabric8.io/iconUrl: "https://cdn.jsdelivr.net/gh/fabric8io/fabric8-devops/kibana/src/main/fabric8/icon.svg"
     fabric8.io/git-branch: "release-v2.2.297"
     fabric8.io/git-url: "http://gogs.ux.fabric8.io/gogsadmin/oss-parent/commit/0958d61020835b9707536cc0525344fc30a764dd"
   labels:
@@ -30,7 +30,7 @@ spec:
         fabric8.io/metrics-path: "dashboard/file/kubernetes-pods.json/?var-project=kibana&var-version=2.2.297"
         fabric8.io/build-id: "4"
         fabric8.io/build-url: "http://jenkins.ux.fabric8.io/job/oss-parent/4"
-        fabric8.io/iconUrl: "https://cdn.rawgit.com/fabric8io/fabric8-devops/master/kibana/src/main/fabric8/icon.svg"
+        fabric8.io/iconUrl: "https://cdn.jsdelivr.net/gh/fabric8io/fabric8-devops/kibana/src/main/fabric8/icon.svg"
         fabric8.io/git-branch: "release-v2.2.297"
         fabric8.io/git-url: "http://gogs.ux.fabric8.io/gogsadmin/oss-parent/commit/0958d61020835b9707536cc0525344fc30a764dd"
       labels:
